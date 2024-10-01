@@ -6,7 +6,7 @@ public class Users {
     private String prenom;
     private String email;
     private String mdp;
-    private int actif;
+    private int actif;g
     private int age;
 
     public Users (int id,String nom,String prenom,String email,String mdp,int actif,int age) {
